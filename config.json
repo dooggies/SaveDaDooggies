@@ -1,0 +1,19 @@
+{
+    "projectID": "ba9206c808f24d9fbed78daaec78f1c2",
+    "ethNodeURL": "wss://mainnet.infura.io/ws/v3/",
+
+    "contractAddress": "0x495f947276749Ce646f68AC8c248420045cb7b5e",
+
+    "privateKey": "",
+    "currentDevPublicAddress": "",
+
+    "newDevPublicAddress": "",
+
+    "communityTreasureyWallet": "",
+    
+    "gweiPrice": "69",
+
+    "targetDooggiesFile": "./data/OGDTest.json",
+
+    "logFile": "./data/logTx.json"
+}

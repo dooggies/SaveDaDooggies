@@ -1,0 +1,10 @@
+{
+  "name": "savedadooggies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "dememetree",
+  "dependencies": {
+    "web3": "^1.7.0"
+  }
+}
