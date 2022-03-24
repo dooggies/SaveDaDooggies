@@ -30,6 +30,10 @@ We <3 the Dooggies and will go to great lengths to keep them safe
 </p>
 
 <p align="center">
+<a href="https://opensea.io/collection/dooggies" rel="some text"><img src="https://cdn.discordapp.com/attachments/709084279841226782/956496063706071060/button_the-collection.png"></a>
+</p>
+
+<p align="center">
 <img width="512" alt="Screen Shot 2022-03-18 at 8 50 34 AM" src="https://user-images.githubusercontent.com/101606792/159207859-72a24b2f-252f-444d-bf41-40e7801a9194.png">
 </p>
 
