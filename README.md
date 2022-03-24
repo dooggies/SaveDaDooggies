@@ -26,11 +26,11 @@ The script was tested locally and sent to Nico. Nico then ran the script on his 
 We <3 the Dooggies and will go to great lengths to keep them safe 
 
 <p align="center">
-<a href="https://dooggies.io" rel="some text"><img src="https://cdn.discordapp.com/attachments/813112900582637608/955472395240628274/button_dooggies-io.png"></a>
+<a href="https://dooggies.io" target="_blank" rel="noopener noreferrer"><img src="https://cdn.discordapp.com/attachments/813112900582637608/955472395240628274/button_dooggies-io.png"></a>
 </p>
 
 <p align="center">
-<a href="https://opensea.io/collection/dooggies" rel="some text"><img src="https://cdn.discordapp.com/attachments/709084279841226782/956496063706071060/button_the-collection.png"></a>
+<a href="https://opensea.io/collection/dooggies" target="_blank" rel="noopener noreferrer"><img src="https://cdn.discordapp.com/attachments/709084279841226782/956496063706071060/button_the-collection.png"></a>
 </p>
 
 <p align="center">
